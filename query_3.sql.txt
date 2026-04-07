@@ -1,0 +1,4 @@
+SELECT Temperature, AVG(HVAC_Consumption)
+FROM energy_data
+GROUP BY Temperature
+ORDER BY Temperature

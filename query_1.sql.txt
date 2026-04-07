@@ -1,0 +1,3 @@
+SELECT Building_Type, AVG(Energy_Consumption)
+From energy_data
+GROUP BY Building_Type;

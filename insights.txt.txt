@@ -1,0 +1,3 @@
+Building type impacts energy consumption, with some types using more energy on average.
+Energy consumption increases as temperature increases.
+HVAC usage increases with temperature, which contributes to higher energy consumption.

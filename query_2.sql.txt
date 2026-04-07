@@ -1,0 +1,4 @@
+SELECT Temperature, AVG(Energy_Consumption)
+FROM energy_data
+GROUP BY Temperature
+ORDER BY Temperature;
